@@ -12812,7 +12812,7 @@
               "keys": [
                 {
                   "type": "GlobalReference",
-                  "value": "http://www.w3.org/2011/mqtt"
+                  "value": "http://opcfoundation.org/UA/WoT-Binding/"
                 }
               ]
             },
@@ -17724,7 +17724,7 @@
               "keys": [
                 {
                   "type": "GlobalReference",
-                  "value": "http://www.w3.org/2011/mqtt"
+                  "value": "http://www.w3.org/2022/bacnet"
                 }
               ]
             },
