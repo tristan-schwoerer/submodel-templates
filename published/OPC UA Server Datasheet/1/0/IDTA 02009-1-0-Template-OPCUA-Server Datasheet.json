@@ -69,7 +69,7 @@
           },
           "qualifiers": [
             {
-              "type": "Cardinality",
+              "type": "SMT/Cardinality",
               "valueType": "xs:string",
               "value": "One"
             }
@@ -94,7 +94,7 @@
               },
               "qualifiers": [
                 {
-                  "type": "Cardinality",
+                  "type": "SMT/Cardinality",
                   "valueType": "xs:string",
                   "value": "ZeroToOne"
                 }
@@ -120,7 +120,7 @@
                   },
                   "qualifiers": [
                     {
-                      "type": "Cardinality",
+                      "type": "SMT/Cardinality",
                       "valueType": "xs:string",
                       "value": "ZeroToMany"
                     }
@@ -151,7 +151,7 @@
               },
               "qualifiers": [
                 {
-                  "type": "Cardinality",
+                  "type": "SMT/Cardinality",
                   "valueType": "xs:string",
                   "value": "ZeroToOne"
                 }
@@ -178,7 +178,7 @@
               },
               "qualifiers": [
                 {
-                  "type": "Cardinality",
+                  "type": "SMT/Cardinality",
                   "valueType": "xs:string",
                   "value": "ZeroToOne"
                 }
@@ -205,7 +205,7 @@
               },
               "qualifiers": [
                 {
-                  "type": "Cardinality",
+                  "type": "SMT/Cardinality",
                   "valueType": "xs:string",
                   "value": "ZeroToOne"
                 }
@@ -232,7 +232,7 @@
               },
               "qualifiers": [
                 {
-                  "type": "Cardinality",
+                  "type": "SMT/Cardinality",
                   "valueType": "xs:string",
                   "value": "ZeroToOne"
                 }
@@ -259,7 +259,7 @@
               },
               "qualifiers": [
                 {
-                  "type": "Cardinality",
+                  "type": "SMT/Cardinality",
                   "valueType": "xs:string",
                   "value": "ZeroToOne"
                 }
@@ -286,7 +286,7 @@
                   },
                   "qualifiers": [
                     {
-                      "type": "Cardinality",
+                      "type": "SMT/Cardinality",
                       "valueType": "xs:string",
                       "value": "ZeroToMany"
                     }
@@ -316,7 +316,7 @@
               },
               "qualifiers": [
                 {
-                  "type": "Cardinality",
+                  "type": "SMT/Cardinality",
                   "valueType": "xs:string",
                   "value": "ZeroToOne"
                 }
@@ -346,7 +346,7 @@
           },
           "qualifiers": [
             {
-              "type": "Cardinality",
+              "type": "SMT/Cardinality",
               "valueType": "xs:string",
               "value": "One"
             }
@@ -371,7 +371,7 @@
               },
               "qualifiers": [
                 {
-                  "type": "Cardinality",
+                  "type": "SMT/Cardinality",
                   "valueType": "xs:string",
                   "value": "ZeroToOne"
                 }
@@ -398,7 +398,7 @@
               },
               "qualifiers": [
                 {
-                  "type": "Cardinality",
+                  "type": "SMT/Cardinality",
                   "valueType": "xs:string",
                   "value": "ZeroToOne"
                 }
@@ -425,7 +425,7 @@
               },
               "qualifiers": [
                 {
-                  "type": "Cardinality",
+                  "type": "SMT/Cardinality",
                   "valueType": "xs:string",
                   "value": "ZeroToOne"
                 }
@@ -452,7 +452,7 @@
               },
               "qualifiers": [
                 {
-                  "type": "Cardinality",
+                  "type": "SMT/Cardinality",
                   "valueType": "xs:string",
                   "value": "ZeroToOne"
                 }
@@ -479,7 +479,7 @@
               },
               "qualifiers": [
                 {
-                  "type": "Cardinality",
+                  "type": "SMT/Cardinality",
                   "valueType": "xs:string",
                   "value": "ZeroToOne"
                 }
@@ -506,7 +506,7 @@
               },
               "qualifiers": [
                 {
-                  "type": "Cardinality",
+                  "type": "SMT/Cardinality",
                   "valueType": "xs:string",
                   "value": "ZeroToOne"
                 }
@@ -536,7 +536,7 @@
           },
           "qualifiers": [
             {
-              "type": "Cardinality",
+              "type": "SMT/Cardinality",
               "valueType": "xs:string",
               "value": "ZeroToOne"
             }
@@ -562,7 +562,7 @@
               },
               "qualifiers": [
                 {
-                  "type": "Cardinality",
+                  "type": "SMT/Cardinality",
                   "valueType": "xs:string",
                   "value": "ZeroToMany"
                 }
@@ -587,7 +587,7 @@
                   },
                   "qualifiers": [
                     {
-                      "type": "Cardinality",
+                      "type": "SMT/Cardinality",
                       "valueType": "xs:string",
                       "value": "One"
                     }
@@ -614,7 +614,7 @@
                   },
                   "qualifiers": [
                     {
-                      "type": "Cardinality",
+                      "type": "SMT/Cardinality",
                       "valueType": "xs:string",
                       "value": "ZeroToOne"
                     }
@@ -639,7 +639,7 @@
                       },
                       "qualifiers": [
                         {
-                          "type": "Cardinality",
+                          "type": "SMT/Cardinality",
                           "valueType": "xs:string",
                           "value": "One"
                         }
@@ -666,7 +666,7 @@
                       },
                       "qualifiers": [
                         {
-                          "type": "Cardinality",
+                          "type": "SMT/Cardinality",
                           "valueType": "xs:string",
                           "value": "ZeroToOne"
                         }
@@ -693,7 +693,7 @@
                       },
                       "qualifiers": [
                         {
-                          "type": "Cardinality",
+                          "type": "SMT/Cardinality",
                           "valueType": "xs:string",
                           "value": "ZeroToOne"
                         }
@@ -725,7 +725,7 @@
                       },
                       "qualifiers": [
                         {
-                          "type": "Cardinality",
+                          "type": "SMT/Cardinality",
                           "valueType": "xs:string",
                           "value": "ZeroToOne"
                         }
@@ -752,7 +752,7 @@
                       },
                       "qualifiers": [
                         {
-                          "type": "Cardinality",
+                          "type": "SMT/Cardinality",
                           "valueType": "xs:string",
                           "value": "ZeroToOne"
                         }
@@ -779,7 +779,7 @@
                       },
                       "qualifiers": [
                         {
-                          "type": "Cardinality",
+                          "type": "SMT/Cardinality",
                           "valueType": "xs:string",
                           "value": "ZeroToOne"
                         }
@@ -806,7 +806,7 @@
                       },
                       "qualifiers": [
                         {
-                          "type": "Cardinality",
+                          "type": "SMT/Cardinality",
                           "valueType": "xs:string",
                           "value": "ZeroToOne"
                         }
@@ -833,7 +833,7 @@
                           },
                           "qualifiers": [
                             {
-                              "type": "Cardinality",
+                              "type": "SMT/Cardinality",
                               "valueType": "xs:string",
                               "value": "ZeroToMany"
                             }
@@ -866,7 +866,7 @@
                   },
                   "qualifiers": [
                     {
-                      "type": "Cardinality",
+                      "type": "SMT/Cardinality",
                       "valueType": "xs:string",
                       "value": "ZeroToOne"
                     }
@@ -893,7 +893,7 @@
                   },
                   "qualifiers": [
                     {
-                      "type": "Cardinality",
+                      "type": "SMT/Cardinality",
                       "valueType": "xs:string",
                       "value": "ZeroToOne"
                     }
@@ -920,7 +920,7 @@
                   },
                   "qualifiers": [
                     {
-                      "type": "Cardinality",
+                      "type": "SMT/Cardinality",
                       "valueType": "xs:string",
                       "value": "ZeroToOne"
                     }
@@ -947,7 +947,7 @@
                   },
                   "qualifiers": [
                     {
-                      "type": "Cardinality",
+                      "type": "SMT/Cardinality",
                       "valueType": "xs:string",
                       "value": "ZeroToOne"
                     }
@@ -973,7 +973,7 @@
                       },
                       "qualifiers": [
                         {
-                          "type": "Cardinality",
+                          "type": "SMT/Cardinality",
                           "valueType": "xs:string",
                           "value": "ZeroToMany"
                         }
@@ -998,7 +998,7 @@
                           },
                           "qualifiers": [
                             {
-                              "type": "Cardinality",
+                              "type": "SMT/Cardinality",
                               "valueType": "xs:string",
                               "value": "ZeroToOne"
                             }
@@ -1025,7 +1025,7 @@
                           },
                           "qualifiers": [
                             {
-                              "type": "Cardinality",
+                              "type": "SMT/Cardinality",
                               "valueType": "xs:string",
                               "value": "ZeroToOne"
                             }
@@ -1053,7 +1053,7 @@
                           },
                           "qualifiers": [
                             {
-                              "type": "Cardinality",
+                              "type": "SMT/Cardinality",
                               "valueType": "xs:string",
                               "value": "ZeroToOne"
                             }
@@ -1080,7 +1080,7 @@
                           },
                           "qualifiers": [
                             {
-                              "type": "Cardinality",
+                              "type": "SMT/Cardinality",
                               "valueType": "xs:string",
                               "value": "ZeroToOne"
                             }
@@ -1107,7 +1107,7 @@
                           },
                           "qualifiers": [
                             {
-                              "type": "Cardinality",
+                              "type": "SMT/Cardinality",
                               "valueType": "xs:string",
                               "value": "ZeroToOne"
                             }
@@ -1140,7 +1140,7 @@
                   },
                   "qualifiers": [
                     {
-                      "type": "Cardinality",
+                      "type": "SMT/Cardinality",
                       "valueType": "xs:string",
                       "value": "ZeroToOne"
                     }
@@ -1167,7 +1167,7 @@
                   },
                   "qualifiers": [
                     {
-                      "type": "Cardinality",
+                      "type": "SMT/Cardinality",
                       "valueType": "xs:string",
                       "value": "ZeroToOne"
                     }
@@ -1200,7 +1200,7 @@
           },
           "qualifiers": [
             {
-              "type": "Cardinality",
+              "type": "SMT/Cardinality",
               "valueType": "xs:string",
               "value": "ZeroToOne"
             }
@@ -1227,7 +1227,7 @@
               },
               "qualifiers": [
                 {
-                  "type": "Cardinality",
+                  "type": "SMT/Cardinality",
                   "valueType": "xs:string",
                   "value": "ZeroToMany"
                 }

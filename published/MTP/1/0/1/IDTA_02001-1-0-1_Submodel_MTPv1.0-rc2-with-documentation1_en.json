@@ -3175,7 +3175,7 @@
                 ]
               },
               "kind": "ConceptQualifier",
-              "type": "Cardinality",
+              "type": "SMT/Cardinality",
               "valueType": "xs:string",
               "value": "One"
             }
@@ -3207,7 +3207,7 @@
                 ]
               },
               "kind": "ConceptQualifier",
-              "type": "Cardinality",
+              "type": "SMT/Cardinality",
               "valueType": "xs:string",
               "value": "ZeroToMany"
             }
@@ -3237,7 +3237,7 @@
                     ]
                   },
                   "kind": "ConceptQualifier",
-                  "type": "Cardinality",
+                  "type": "SMT/Cardinality",
                   "valueType": "xs:string",
                   "value": "OneToMany"
                 }
@@ -3300,7 +3300,7 @@
                 ]
               },
               "kind": "ConceptQualifier",
-              "type": "Cardinality",
+              "type": "SMT/Cardinality",
               "valueType": "xs:string",
               "value": "ZeroToMany"
             }
@@ -3352,7 +3352,7 @@
                 ]
               },
               "kind": "ConceptQualifier",
-              "type": "Cardinality",
+              "type": "SMT/Cardinality",
               "valueType": "xs:string",
               "value": "ZeroToOne"
             }
@@ -3384,7 +3384,7 @@
                 ]
               },
               "kind": "ConceptQualifier",
-              "type": "Cardinality",
+              "type": "SMT/Cardinality",
               "valueType": "xs:string",
               "value": "ZeroToOne"
             }
@@ -3413,7 +3413,7 @@
                     ]
                   },
                   "kind": "ConceptQualifier",
-                  "type": "Cardinality",
+                  "type": "SMT/Cardinality",
                   "valueType": "xs:string",
                   "value": "OneToMany"
                 }
@@ -3443,7 +3443,7 @@
                         ]
                       },
                       "kind": "ConceptQualifier",
-                      "type": "Cardinality",
+                      "type": "SMT/Cardinality",
                       "valueType": "xs:string",
                       "value": "OneToMany"
                     },
@@ -3491,7 +3491,7 @@
                         ]
                       },
                       "kind": "ConceptQualifier",
-                      "type": "Cardinality",
+                      "type": "SMT/Cardinality",
                       "valueType": "xs:string",
                       "value": "ZeroToMany"
                     },
@@ -3545,7 +3545,7 @@
                 ]
               },
               "kind": "ConceptQualifier",
-              "type": "Cardinality",
+              "type": "SMT/Cardinality",
               "valueType": "xs:string",
               "value": "ZeroToOne"
             }
@@ -3582,7 +3582,7 @@
                 ]
               },
               "kind": "ConceptQualifier",
-              "type": "Cardinality",
+              "type": "SMT/Cardinality",
               "valueType": "xs:string",
               "value": "ZeroToOne"
             }
@@ -3618,7 +3618,7 @@
                 ]
               },
               "kind": "ConceptQualifier",
-              "type": "Cardinality",
+              "type": "SMT/Cardinality",
               "valueType": "xs:string",
               "value": "ZeroToOne"
             }
@@ -3648,7 +3648,7 @@
                     ]
                   },
                   "kind": "ConceptQualifier",
-                  "type": "Cardinality",
+                  "type": "SMT/Cardinality",
                   "valueType": "xs:string",
                   "value": "OneToMany"
                 }
