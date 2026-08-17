@@ -4140,7 +4140,7 @@
                                     "keys": [
                                       {
                                         "type": "GlobalReference",
-                                        "value": "https://www.w3.org/2019/wot/json-schema#propertyName"
+                                        "value": "https://www.w3.org/2019/wot/json-schema#properties"
                                       }
                                     ]
                                   },
@@ -7394,7 +7394,7 @@
                                     "keys": [
                                       {
                                         "type": "GlobalReference",
-                                        "value": "https://www.w3.org/2019/wot/json-schema#propertyName"
+                                        "value": "https://www.w3.org/2019/wot/json-schema#properties"
                                       }
                                     ]
                                   },
@@ -12224,7 +12224,7 @@
                                     "keys": [
                                       {
                                         "type": "GlobalReference",
-                                        "value": "https://www.w3.org/2019/wot/json-schema#propertyName"
+                                        "value": "https://www.w3.org/2019/wot/json-schema#properties"
                                       }
                                     ]
                                   },
@@ -17222,7 +17222,7 @@
                                     "keys": [
                                       {
                                         "type": "GlobalReference",
-                                        "value": "https://www.w3.org/2019/wot/json-schema#propertyName"
+                                        "value": "https://www.w3.org/2019/wot/json-schema#properties"
                                       }
                                     ]
                                   },
@@ -21766,7 +21766,7 @@
                                     "keys": [
                                       {
                                         "type": "GlobalReference",
-                                        "value": "https://www.w3.org/2019/wot/json-schema#propertyName"
+                                        "value": "https://www.w3.org/2019/wot/json-schema#properties"
                                       }
                                     ]
                                   },
@@ -22807,7 +22807,7 @@
                                     "keys": [
                                       {
                                         "type": "GlobalReference",
-                                        "value": "https://www.w3.org/2019/wot/json-schema#propertyName"
+                                        "value": "https://www.w3.org/2019/wot/json-schema#properties"
                                       }
                                     ]
                                   },
@@ -28862,7 +28862,7 @@
                                     "keys": [
                                       {
                                         "type": "GlobalReference",
-                                        "value": "https://www.w3.org/2019/wot/json-schema#propertyName"
+                                        "value": "https://www.w3.org/2019/wot/json-schema#properties"
                                       }
                                     ]
                                   },
