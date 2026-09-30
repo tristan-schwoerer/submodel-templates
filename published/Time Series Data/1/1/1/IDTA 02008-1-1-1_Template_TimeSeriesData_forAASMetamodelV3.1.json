@@ -700,7 +700,7 @@
                     "keys": [
                       {
                         "type": "GlobalReference",
-                        "value": "https://admin-shell.io/idta/TimeSeries/Segment/EndTime/1/1 "
+                        "value": "https://admin-shell.io/idta/TimeSeries/Segment/EndTime/1/1"
                       }
                     ]
                   },
