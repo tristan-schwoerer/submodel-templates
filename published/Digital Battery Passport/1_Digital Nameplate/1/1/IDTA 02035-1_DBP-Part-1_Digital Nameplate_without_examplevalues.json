@@ -625,7 +625,7 @@
                 ]
               },
               "kind": "TemplateQualifier",
-              "type": "Cardinality",
+              "type": "SMT/Cardinality",
               "valueType": "xs:string",
               "value": "One"
             }
