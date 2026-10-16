@@ -10,22 +10,19 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
-        with:
-          submodules: 'true'
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
 
-      - name: Install aas test engine
-        env:
-          TOKEN: ${{ secrets.AAS_ENGINES_PAT }}
-        run: |
-          python -m pip install --upgrade pip
-          pip install "git+https://x-access-token:${TOKEN}@github.com/admin-shell-io/aas-test-engines-exclusive.git@v1.3.0#egg=aas_test_engines_exclusive"
+      - name: Install public validation tooling
+        run: python -m pip install -r tools/requirements.txt
 
-      - name: Run template checks (AAS metamodel 3.1)
+      - name: Test the template checker
+        run: python -m unittest discover -s _help_and_materials -p '*_tests.py'
+
+      - name: Validate templates with public AAS metamodel 3.1 SDK
         env:
           AAS_VERSION: "3.1"
         run: python ./_help_and_materials/check_templates.py

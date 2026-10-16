@@ -34,6 +34,33 @@ JSON carries no metamodel version, so one JSON serves all of them.
 2. Every AASX matches its template JSON.
 3. README links resolve.
 
+## Public template validation
+
+The Tests workflow installs only public packages from `tools/requirements.txt`.
+It does not need `AAS_ENGINES_PAT` or access to a private test-engine repository.
+
+`_help_and_materials/check_templates.py` selects the latest published JSON
+release of each submodel and uses the matching public `aas-core` SDK, defaulting
+to AAS 3.1. It checks JSON structure, metamodel constraints, provided datatype
+values, and IEC 61360 content constraints implemented by that SDK. Unset template
+values are valid and do not require instance-validation exceptions.
+
+This is metamodel validation, not the private engine's IDTA-template-specific
+conformance suite or an external concept-dictionary check. The public SDK also
+does not enforce canonical IEC 61360 data-specification reference IRIs. Existing
+exact-file exclusions which still fail the public SDK remain explicit and are
+printed as `SKIPPED`; formerly excluded files that pass this layer are checked.
+Any other parsing or constraint error fails CI; exclusions are not expanded to
+make a run green. The separate release-integrity checks remain enabled.
+
+Run the offline checker regressions and template scan locally:
+
+```bash
+python -m pip install -r tools/requirements.txt
+python -m unittest discover -s _help_and_materials -p '*_tests.py'
+python _help_and_materials/check_templates.py
+```
+
 ## Settings (`smt-config.yml`)
 
 - `aas_versions`: AAS metamodel versions new bug-fix releases are built for.
