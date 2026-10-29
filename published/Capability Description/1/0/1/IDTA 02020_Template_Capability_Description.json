@@ -625,21 +625,6 @@
                               "value": "ZeroToMany"
                             },
                             {
-                              "semanticId": {
-                                "type": "ExternalReference",
-                                "keys": [
-                                  {
-                                    "type": "GlobalReference",
-                                    "value": "https://admin-shell.io/SubmodelTemplates/Recursion/1/0"
-                                  }
-                                ]
-                              },
-                              "kind": "TemplateQualifier",
-                              "type": "SMT/Cardinality",
-                              "valueType": "xs:string",
-                              "value": "Recursive"
-                            },
-                            {
                               "kind": "TemplateQualifier",
                               "type": "EditIdShort",
                               "valueType": "xs:string",

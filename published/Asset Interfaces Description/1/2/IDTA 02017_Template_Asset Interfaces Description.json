@@ -1999,6 +1999,7 @@
                             }
                           ],
                           "typeValueListElement": "Property",
+                          "valueTypeListElement": "xs:string",
                           "modelType": "SubmodelElementList"
                         },
                                                 {
@@ -2353,6 +2354,7 @@
                                 }
                               ],
                               "typeValueListElement": "Property",
+                              "valueTypeListElement": "xs:string",
                               "modelType": "SubmodelElementList"
                             },
                                                         {
@@ -2823,6 +2825,7 @@
                                     }
                                   ],
                                   "typeValueListElement": "Property",
+                                  "valueTypeListElement": "xs:string",
                                   "modelType": "SubmodelElementList"
                                 },
                                                                 {
@@ -3177,6 +3180,7 @@
                                         }
                                       ],
                                       "typeValueListElement": "Property",
+                                      "valueTypeListElement": "xs:string",
                                       "modelType": "SubmodelElementList"
                                     },
                                                                         {
@@ -6025,6 +6029,7 @@
                             }
                           ],
                           "typeValueListElement": "Property",
+                          "valueTypeListElement": "xs:string",
                           "modelType": "SubmodelElementList"
                         },
                                                 {
@@ -6379,6 +6384,7 @@
                                 }
                               ],
                               "typeValueListElement": "Property",
+                              "valueTypeListElement": "xs:string",
                               "modelType": "SubmodelElementList"
                             },
                                                         {
@@ -6849,6 +6855,7 @@
                                     }
                                   ],
                                   "typeValueListElement": "Property",
+                                  "valueTypeListElement": "xs:string",
                                   "modelType": "SubmodelElementList"
                                 },
                                                                 {
@@ -7203,6 +7210,7 @@
                                         }
                                       ],
                                       "typeValueListElement": "Property",
+                                      "valueTypeListElement": "xs:string",
                                       "modelType": "SubmodelElementList"
                                     },
                                                                         {
@@ -8086,7 +8094,7 @@
                   "description": [
                     {
                       "language": "en",
-                      "text": "Collection of functions that can be done on asset as action SMC"
+                      "text": "Collection of events triggerable by datapoint state as event SMC"
                     }
                   ],
                   "semanticId": {
@@ -10092,6 +10100,7 @@
                             }
                           ],
                           "typeValueListElement": "Property",
+                          "valueTypeListElement": "xs:string",
                           "modelType": "SubmodelElementList"
                         },
                                                 {
@@ -10446,6 +10455,7 @@
                                 }
                               ],
                               "typeValueListElement": "Property",
+                              "valueTypeListElement": "xs:string",
                               "modelType": "SubmodelElementList"
                             },
                                                         {
@@ -10916,6 +10926,7 @@
                                     }
                                   ],
                                   "typeValueListElement": "Property",
+                                  "valueTypeListElement": "xs:string",
                                   "modelType": "SubmodelElementList"
                                 },
                                                                 {
@@ -11270,6 +11281,7 @@
                                         }
                                       ],
                                       "typeValueListElement": "Property",
+                                      "valueTypeListElement": "xs:string",
                                       "modelType": "SubmodelElementList"
                                     },
                                                                         {
@@ -14224,6 +14236,7 @@
                             }
                           ],
                           "typeValueListElement": "Property",
+                          "valueTypeListElement": "xs:string",
                           "modelType": "SubmodelElementList"
                         },
                                                 {
@@ -14578,6 +14591,7 @@
                                 }
                               ],
                               "typeValueListElement": "Property",
+                              "valueTypeListElement": "xs:string",
                               "modelType": "SubmodelElementList"
                             },
                                                         {
@@ -15048,6 +15062,7 @@
                                     }
                                   ],
                                   "typeValueListElement": "Property",
+                                  "valueTypeListElement": "xs:string",
                                   "modelType": "SubmodelElementList"
                                 },
                                                                 {
@@ -15402,6 +15417,7 @@
                                         }
                                       ],
                                       "typeValueListElement": "Property",
+                                      "valueTypeListElement": "xs:string",
                                       "modelType": "SubmodelElementList"
                                     },
                                                                         {
@@ -18028,6 +18044,7 @@
                             }
                           ],
                           "typeValueListElement": "Property",
+                          "valueTypeListElement": "xs:string",
                           "modelType": "SubmodelElementList"
                         },
                                                 {
@@ -18382,6 +18399,7 @@
                                 }
                               ],
                               "typeValueListElement": "Property",
+                              "valueTypeListElement": "xs:string",
                               "modelType": "SubmodelElementList"
                             },
                                                         {
@@ -18852,6 +18870,7 @@
                                     }
                                   ],
                                   "typeValueListElement": "Property",
+                                  "valueTypeListElement": "xs:string",
                                   "modelType": "SubmodelElementList"
                                 },
                                                                 {
@@ -19206,6 +19225,7 @@
                                         }
                                       ],
                                       "typeValueListElement": "Property",
+                                      "valueTypeListElement": "xs:string",
                                       "modelType": "SubmodelElementList"
                                     },
                                                                         {
@@ -19803,6 +19823,7 @@
                                     }
                                   ],
                                   "typeValueListElement": "Property",
+                                  "valueTypeListElement": "xs:string",
                                   "modelType": "SubmodelElementList"
                                 },
                                                                 {
@@ -20157,6 +20178,7 @@
                                         }
                                       ],
                                       "typeValueListElement": "Property",
+                                      "valueTypeListElement": "xs:string",
                                       "modelType": "SubmodelElementList"
                                     },
                                                                         {
@@ -23690,6 +23712,7 @@
                             }
                           ],
                           "typeValueListElement": "Property",
+                          "valueTypeListElement": "xs:string",
                           "modelType": "SubmodelElementList"
                         },
                                                 {
@@ -24044,6 +24067,7 @@
                                 }
                               ],
                               "typeValueListElement": "Property",
+                              "valueTypeListElement": "xs:string",
                               "modelType": "SubmodelElementList"
                             },
                                                         {
@@ -24514,6 +24538,7 @@
                                     }
                                   ],
                                   "typeValueListElement": "Property",
+                                  "valueTypeListElement": "xs:string",
                                   "modelType": "SubmodelElementList"
                                 },
                                                                 {
@@ -24868,6 +24893,7 @@
                                         }
                                       ],
                                       "typeValueListElement": "Property",
+                                      "valueTypeListElement": "xs:string",
                                       "modelType": "SubmodelElementList"
                                     },
                                                                         {
@@ -28165,6 +28191,7 @@
                             }
                           ],
                           "typeValueListElement": "Property",
+                          "valueTypeListElement": "xs:string",
                           "modelType": "SubmodelElementList"
                         },
                                                 {
@@ -28519,6 +28546,7 @@
                                 }
                               ],
                               "typeValueListElement": "Property",
+                              "valueTypeListElement": "xs:string",
                               "modelType": "SubmodelElementList"
                             },
                                                         {
@@ -28989,6 +29017,7 @@
                                     }
                                   ],
                                   "typeValueListElement": "Property",
+                                  "valueTypeListElement": "xs:string",
                                   "modelType": "SubmodelElementList"
                                 },
                                                                 {
@@ -29343,6 +29372,7 @@
                                         }
                                       ],
                                       "typeValueListElement": "Property",
+                                      "valueTypeListElement": "xs:string",
                                       "modelType": "SubmodelElementList"
                                     },
                                                                         {
@@ -31963,6 +31993,7 @@
                             }
                           ],
                           "typeValueListElement": "Property",
+                          "valueTypeListElement": "xs:string",
                           "modelType": "SubmodelElementList"
                         },
                                                 {
@@ -32317,6 +32348,7 @@
                                 }
                               ],
                               "typeValueListElement": "Property",
+                              "valueTypeListElement": "xs:string",
                               "modelType": "SubmodelElementList"
                             },
                                                         {
@@ -32787,6 +32819,7 @@
                                     }
                                   ],
                                   "typeValueListElement": "Property",
+                                  "valueTypeListElement": "xs:string",
                                   "modelType": "SubmodelElementList"
                                 },
                                                                 {
@@ -33141,6 +33174,7 @@
                                         }
                                       ],
                                       "typeValueListElement": "Property",
+                                      "valueTypeListElement": "xs:string",
                                       "modelType": "SubmodelElementList"
                                     },
                                                                         {
