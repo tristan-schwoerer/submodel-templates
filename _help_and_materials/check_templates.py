@@ -26,6 +26,11 @@ aas_verification = importlib.import_module(f"{_sdk}.verification")
 # Exclusions are reported, never silently skipped.
 # Future release names are not implicitly excluded.
 _SKIP = frozenset({
+    # Contact Information 1.0.3 and 1.0.4 carry the legacy Multiplicity
+    # qualifier again (fixed in this fork's 1.0.2 only).
+    "IDTA 02002-1-0-3_Template_ContactInformation.json",
+    "IDTA 02002-1-0-4_Template_ContactInformation.json",
+
     "IDTA_02018_Template_MaintenanceInstructions.json",
 
     # Hierarchical Structures, IEC 81346 extension: 1.1.1, and its 1.1.2
