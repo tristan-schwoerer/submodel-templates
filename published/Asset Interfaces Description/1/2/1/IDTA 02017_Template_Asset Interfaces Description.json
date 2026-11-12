@@ -1969,6 +1969,41 @@
                           "modelType": "Property"
                         },
                         {
+                          "idShort": "enum",
+                          "displayName": [
+                            {
+                              "language": "en",
+                              "text": "Enum"
+                            }
+                          ],
+                          "description": [
+                            {
+                              "language": "en",
+                              "text": "Provides a list of restricted set of values that the asset can provide as datapoint value."
+                            }
+                          ],
+                          "semanticId": {
+                            "type": "ExternalReference",
+                            "keys": [
+                              {
+                                "type": "GlobalReference",
+                                "value": "https://www.w3.org/2019/wot/json-schema#enum"
+                              }
+                            ]
+                          },
+                          "qualifiers": [
+                            {
+                              "kind": "TemplateQualifier",
+                              "type": "SMT/Cardinality",
+                              "valueType": "xs:string",
+                              "value": "ZeroToOne"
+                            }
+                          ],
+                          "typeValueListElement": "Property",
+                          "valueTypeListElement": "xs:string",
+                          "modelType": "SubmodelElementList"
+                        },
+                        {
                           "idShort": "const",
                           "description": [
                             {
@@ -2287,6 +2322,41 @@
                               ],
                               "valueType": "xs:string",
                               "modelType": "Property"
+                            },
+                            {
+                              "idShort": "enum",
+                              "displayName": [
+                                {
+                                  "language": "en",
+                                  "text": "Enum"
+                                }
+                              ],
+                              "description": [
+                                {
+                                  "language": "en",
+                                  "text": "Provides a list of restricted set of values that the asset can provide as datapoint value."
+                                }
+                              ],
+                              "semanticId": {
+                                "type": "ExternalReference",
+                                "keys": [
+                                  {
+                                    "type": "GlobalReference",
+                                    "value": "https://www.w3.org/2019/wot/json-schema#enum"
+                                  }
+                                ]
+                              },
+                              "qualifiers": [
+                                {
+                                  "kind": "TemplateQualifier",
+                                  "type": "SMT/Cardinality",
+                                  "valueType": "xs:string",
+                                  "value": "ZeroToOne"
+                                }
+                              ],
+                              "typeValueListElement": "Property",
+                              "valueTypeListElement": "xs:string",
+                              "modelType": "SubmodelElementList"
                             },
                             {
                               "idShort": "const",
@@ -2725,6 +2795,41 @@
                                   "modelType": "Property"
                                 },
                                 {
+                                  "idShort": "enum",
+                                  "displayName": [
+                                    {
+                                      "language": "en",
+                                      "text": "Enum"
+                                    }
+                                  ],
+                                  "description": [
+                                    {
+                                      "language": "en",
+                                      "text": "Provides a list of restricted set of values that the asset can provide as datapoint value."
+                                    }
+                                  ],
+                                  "semanticId": {
+                                    "type": "ExternalReference",
+                                    "keys": [
+                                      {
+                                        "type": "GlobalReference",
+                                        "value": "https://www.w3.org/2019/wot/json-schema#enum"
+                                      }
+                                    ]
+                                  },
+                                  "qualifiers": [
+                                    {
+                                      "kind": "TemplateQualifier",
+                                      "type": "SMT/Cardinality",
+                                      "valueType": "xs:string",
+                                      "value": "ZeroToOne"
+                                    }
+                                  ],
+                                  "typeValueListElement": "Property",
+                                  "valueTypeListElement": "xs:string",
+                                  "modelType": "SubmodelElementList"
+                                },
+                                {
                                   "idShort": "const",
                                   "description": [
                                     {
@@ -3043,6 +3148,41 @@
                                       ],
                                       "valueType": "xs:string",
                                       "modelType": "Property"
+                                    },
+                                    {
+                                      "idShort": "enum",
+                                      "displayName": [
+                                        {
+                                          "language": "en",
+                                          "text": "Enum"
+                                        }
+                                      ],
+                                      "description": [
+                                        {
+                                          "language": "en",
+                                          "text": "Provides a list of restricted set of values that the asset can provide as datapoint value."
+                                        }
+                                      ],
+                                      "semanticId": {
+                                        "type": "ExternalReference",
+                                        "keys": [
+                                          {
+                                            "type": "GlobalReference",
+                                            "value": "https://www.w3.org/2019/wot/json-schema#enum"
+                                          }
+                                        ]
+                                      },
+                                      "qualifiers": [
+                                        {
+                                          "kind": "TemplateQualifier",
+                                          "type": "SMT/Cardinality",
+                                          "valueType": "xs:string",
+                                          "value": "ZeroToOne"
+                                        }
+                                      ],
+                                      "typeValueListElement": "Property",
+                                      "valueTypeListElement": "xs:string",
+                                      "modelType": "SubmodelElementList"
                                     },
                                     {
                                       "idShort": "const",
@@ -5862,6 +6002,41 @@
                           "modelType": "Property"
                         },
                         {
+                          "idShort": "enum",
+                          "displayName": [
+                            {
+                              "language": "en",
+                              "text": "Enum"
+                            }
+                          ],
+                          "description": [
+                            {
+                              "language": "en",
+                              "text": "Provides a list of restricted set of values that the asset can provide as datapoint value."
+                            }
+                          ],
+                          "semanticId": {
+                            "type": "ExternalReference",
+                            "keys": [
+                              {
+                                "type": "GlobalReference",
+                                "value": "https://www.w3.org/2019/wot/json-schema#enum"
+                              }
+                            ]
+                          },
+                          "qualifiers": [
+                            {
+                              "kind": "TemplateQualifier",
+                              "type": "SMT/Cardinality",
+                              "valueType": "xs:string",
+                              "value": "ZeroToOne"
+                            }
+                          ],
+                          "typeValueListElement": "Property",
+                          "valueTypeListElement": "xs:string",
+                          "modelType": "SubmodelElementList"
+                        },
+                        {
                           "idShort": "const",
                           "description": [
                             {
@@ -6180,6 +6355,41 @@
                               ],
                               "valueType": "xs:string",
                               "modelType": "Property"
+                            },
+                            {
+                              "idShort": "enum",
+                              "displayName": [
+                                {
+                                  "language": "en",
+                                  "text": "Enum"
+                                }
+                              ],
+                              "description": [
+                                {
+                                  "language": "en",
+                                  "text": "Provides a list of restricted set of values that the asset can provide as datapoint value."
+                                }
+                              ],
+                              "semanticId": {
+                                "type": "ExternalReference",
+                                "keys": [
+                                  {
+                                    "type": "GlobalReference",
+                                    "value": "https://www.w3.org/2019/wot/json-schema#enum"
+                                  }
+                                ]
+                              },
+                              "qualifiers": [
+                                {
+                                  "kind": "TemplateQualifier",
+                                  "type": "SMT/Cardinality",
+                                  "valueType": "xs:string",
+                                  "value": "ZeroToOne"
+                                }
+                              ],
+                              "typeValueListElement": "Property",
+                              "valueTypeListElement": "xs:string",
+                              "modelType": "SubmodelElementList"
                             },
                             {
                               "idShort": "const",
@@ -6618,6 +6828,41 @@
                                   "modelType": "Property"
                                 },
                                 {
+                                  "idShort": "enum",
+                                  "displayName": [
+                                    {
+                                      "language": "en",
+                                      "text": "Enum"
+                                    }
+                                  ],
+                                  "description": [
+                                    {
+                                      "language": "en",
+                                      "text": "Provides a list of restricted set of values that the asset can provide as datapoint value."
+                                    }
+                                  ],
+                                  "semanticId": {
+                                    "type": "ExternalReference",
+                                    "keys": [
+                                      {
+                                        "type": "GlobalReference",
+                                        "value": "https://www.w3.org/2019/wot/json-schema#enum"
+                                      }
+                                    ]
+                                  },
+                                  "qualifiers": [
+                                    {
+                                      "kind": "TemplateQualifier",
+                                      "type": "SMT/Cardinality",
+                                      "valueType": "xs:string",
+                                      "value": "ZeroToOne"
+                                    }
+                                  ],
+                                  "typeValueListElement": "Property",
+                                  "valueTypeListElement": "xs:string",
+                                  "modelType": "SubmodelElementList"
+                                },
+                                {
                                   "idShort": "const",
                                   "description": [
                                     {
@@ -6936,6 +7181,41 @@
                                       ],
                                       "valueType": "xs:string",
                                       "modelType": "Property"
+                                    },
+                                    {
+                                      "idShort": "enum",
+                                      "displayName": [
+                                        {
+                                          "language": "en",
+                                          "text": "Enum"
+                                        }
+                                      ],
+                                      "description": [
+                                        {
+                                          "language": "en",
+                                          "text": "Provides a list of restricted set of values that the asset can provide as datapoint value."
+                                        }
+                                      ],
+                                      "semanticId": {
+                                        "type": "ExternalReference",
+                                        "keys": [
+                                          {
+                                            "type": "GlobalReference",
+                                            "value": "https://www.w3.org/2019/wot/json-schema#enum"
+                                          }
+                                        ]
+                                      },
+                                      "qualifiers": [
+                                        {
+                                          "kind": "TemplateQualifier",
+                                          "type": "SMT/Cardinality",
+                                          "valueType": "xs:string",
+                                          "value": "ZeroToOne"
+                                        }
+                                      ],
+                                      "typeValueListElement": "Property",
+                                      "valueTypeListElement": "xs:string",
+                                      "modelType": "SubmodelElementList"
                                     },
                                     {
                                       "idShort": "const",
@@ -7820,7 +8100,7 @@
                   "description": [
                     {
                       "language": "en",
-                      "text": "Collection of functions that can be done on asset as action SMC"
+                      "text": "Collection of events triggerable by datapoint state as event SMC"
                     }
                   ],
                   "semanticId": {
@@ -9796,6 +10076,41 @@
                           "modelType": "Property"
                         },
                         {
+                          "idShort": "enum",
+                          "displayName": [
+                            {
+                              "language": "en",
+                              "text": "Enum"
+                            }
+                          ],
+                          "description": [
+                            {
+                              "language": "en",
+                              "text": "Provides a list of restricted set of values that the asset can provide as datapoint value."
+                            }
+                          ],
+                          "semanticId": {
+                            "type": "ExternalReference",
+                            "keys": [
+                              {
+                                "type": "GlobalReference",
+                                "value": "https://www.w3.org/2019/wot/json-schema#enum"
+                              }
+                            ]
+                          },
+                          "qualifiers": [
+                            {
+                              "kind": "TemplateQualifier",
+                              "type": "SMT/Cardinality",
+                              "valueType": "xs:string",
+                              "value": "ZeroToOne"
+                            }
+                          ],
+                          "typeValueListElement": "Property",
+                          "valueTypeListElement": "xs:string",
+                          "modelType": "SubmodelElementList"
+                        },
+                        {
                           "idShort": "const",
                           "description": [
                             {
@@ -10114,6 +10429,41 @@
                               ],
                               "valueType": "xs:string",
                               "modelType": "Property"
+                            },
+                            {
+                              "idShort": "enum",
+                              "displayName": [
+                                {
+                                  "language": "en",
+                                  "text": "Enum"
+                                }
+                              ],
+                              "description": [
+                                {
+                                  "language": "en",
+                                  "text": "Provides a list of restricted set of values that the asset can provide as datapoint value."
+                                }
+                              ],
+                              "semanticId": {
+                                "type": "ExternalReference",
+                                "keys": [
+                                  {
+                                    "type": "GlobalReference",
+                                    "value": "https://www.w3.org/2019/wot/json-schema#enum"
+                                  }
+                                ]
+                              },
+                              "qualifiers": [
+                                {
+                                  "kind": "TemplateQualifier",
+                                  "type": "SMT/Cardinality",
+                                  "valueType": "xs:string",
+                                  "value": "ZeroToOne"
+                                }
+                              ],
+                              "typeValueListElement": "Property",
+                              "valueTypeListElement": "xs:string",
+                              "modelType": "SubmodelElementList"
                             },
                             {
                               "idShort": "const",
@@ -10552,6 +10902,41 @@
                                   "modelType": "Property"
                                 },
                                 {
+                                  "idShort": "enum",
+                                  "displayName": [
+                                    {
+                                      "language": "en",
+                                      "text": "Enum"
+                                    }
+                                  ],
+                                  "description": [
+                                    {
+                                      "language": "en",
+                                      "text": "Provides a list of restricted set of values that the asset can provide as datapoint value."
+                                    }
+                                  ],
+                                  "semanticId": {
+                                    "type": "ExternalReference",
+                                    "keys": [
+                                      {
+                                        "type": "GlobalReference",
+                                        "value": "https://www.w3.org/2019/wot/json-schema#enum"
+                                      }
+                                    ]
+                                  },
+                                  "qualifiers": [
+                                    {
+                                      "kind": "TemplateQualifier",
+                                      "type": "SMT/Cardinality",
+                                      "valueType": "xs:string",
+                                      "value": "ZeroToOne"
+                                    }
+                                  ],
+                                  "typeValueListElement": "Property",
+                                  "valueTypeListElement": "xs:string",
+                                  "modelType": "SubmodelElementList"
+                                },
+                                {
                                   "idShort": "const",
                                   "description": [
                                     {
@@ -10870,6 +11255,41 @@
                                       ],
                                       "valueType": "xs:string",
                                       "modelType": "Property"
+                                    },
+                                    {
+                                      "idShort": "enum",
+                                      "displayName": [
+                                        {
+                                          "language": "en",
+                                          "text": "Enum"
+                                        }
+                                      ],
+                                      "description": [
+                                        {
+                                          "language": "en",
+                                          "text": "Provides a list of restricted set of values that the asset can provide as datapoint value."
+                                        }
+                                      ],
+                                      "semanticId": {
+                                        "type": "ExternalReference",
+                                        "keys": [
+                                          {
+                                            "type": "GlobalReference",
+                                            "value": "https://www.w3.org/2019/wot/json-schema#enum"
+                                          }
+                                        ]
+                                      },
+                                      "qualifiers": [
+                                        {
+                                          "kind": "TemplateQualifier",
+                                          "type": "SMT/Cardinality",
+                                          "valueType": "xs:string",
+                                          "value": "ZeroToOne"
+                                        }
+                                      ],
+                                      "typeValueListElement": "Property",
+                                      "valueTypeListElement": "xs:string",
+                                      "modelType": "SubmodelElementList"
                                     },
                                     {
                                       "idShort": "const",
@@ -13795,6 +14215,41 @@
                           "modelType": "Property"
                         },
                         {
+                          "idShort": "enum",
+                          "displayName": [
+                            {
+                              "language": "en",
+                              "text": "Enum"
+                            }
+                          ],
+                          "description": [
+                            {
+                              "language": "en",
+                              "text": "Provides a list of restricted set of values that the asset can provide as datapoint value."
+                            }
+                          ],
+                          "semanticId": {
+                            "type": "ExternalReference",
+                            "keys": [
+                              {
+                                "type": "GlobalReference",
+                                "value": "https://www.w3.org/2019/wot/json-schema#enum"
+                              }
+                            ]
+                          },
+                          "qualifiers": [
+                            {
+                              "kind": "TemplateQualifier",
+                              "type": "SMT/Cardinality",
+                              "valueType": "xs:string",
+                              "value": "ZeroToOne"
+                            }
+                          ],
+                          "typeValueListElement": "Property",
+                          "valueTypeListElement": "xs:string",
+                          "modelType": "SubmodelElementList"
+                        },
+                        {
                           "idShort": "const",
                           "description": [
                             {
@@ -14113,6 +14568,41 @@
                               ],
                               "valueType": "xs:string",
                               "modelType": "Property"
+                            },
+                            {
+                              "idShort": "enum",
+                              "displayName": [
+                                {
+                                  "language": "en",
+                                  "text": "Enum"
+                                }
+                              ],
+                              "description": [
+                                {
+                                  "language": "en",
+                                  "text": "Provides a list of restricted set of values that the asset can provide as datapoint value."
+                                }
+                              ],
+                              "semanticId": {
+                                "type": "ExternalReference",
+                                "keys": [
+                                  {
+                                    "type": "GlobalReference",
+                                    "value": "https://www.w3.org/2019/wot/json-schema#enum"
+                                  }
+                                ]
+                              },
+                              "qualifiers": [
+                                {
+                                  "kind": "TemplateQualifier",
+                                  "type": "SMT/Cardinality",
+                                  "valueType": "xs:string",
+                                  "value": "ZeroToOne"
+                                }
+                              ],
+                              "typeValueListElement": "Property",
+                              "valueTypeListElement": "xs:string",
+                              "modelType": "SubmodelElementList"
                             },
                             {
                               "idShort": "const",
@@ -14551,6 +15041,41 @@
                                   "modelType": "Property"
                                 },
                                 {
+                                  "idShort": "enum",
+                                  "displayName": [
+                                    {
+                                      "language": "en",
+                                      "text": "Enum"
+                                    }
+                                  ],
+                                  "description": [
+                                    {
+                                      "language": "en",
+                                      "text": "Provides a list of restricted set of values that the asset can provide as datapoint value."
+                                    }
+                                  ],
+                                  "semanticId": {
+                                    "type": "ExternalReference",
+                                    "keys": [
+                                      {
+                                        "type": "GlobalReference",
+                                        "value": "https://www.w3.org/2019/wot/json-schema#enum"
+                                      }
+                                    ]
+                                  },
+                                  "qualifiers": [
+                                    {
+                                      "kind": "TemplateQualifier",
+                                      "type": "SMT/Cardinality",
+                                      "valueType": "xs:string",
+                                      "value": "ZeroToOne"
+                                    }
+                                  ],
+                                  "typeValueListElement": "Property",
+                                  "valueTypeListElement": "xs:string",
+                                  "modelType": "SubmodelElementList"
+                                },
+                                {
                                   "idShort": "const",
                                   "description": [
                                     {
@@ -14869,6 +15394,41 @@
                                       ],
                                       "valueType": "xs:string",
                                       "modelType": "Property"
+                                    },
+                                    {
+                                      "idShort": "enum",
+                                      "displayName": [
+                                        {
+                                          "language": "en",
+                                          "text": "Enum"
+                                        }
+                                      ],
+                                      "description": [
+                                        {
+                                          "language": "en",
+                                          "text": "Provides a list of restricted set of values that the asset can provide as datapoint value."
+                                        }
+                                      ],
+                                      "semanticId": {
+                                        "type": "ExternalReference",
+                                        "keys": [
+                                          {
+                                            "type": "GlobalReference",
+                                            "value": "https://www.w3.org/2019/wot/json-schema#enum"
+                                          }
+                                        ]
+                                      },
+                                      "qualifiers": [
+                                        {
+                                          "kind": "TemplateQualifier",
+                                          "type": "SMT/Cardinality",
+                                          "valueType": "xs:string",
+                                          "value": "ZeroToOne"
+                                        }
+                                      ],
+                                      "typeValueListElement": "Property",
+                                      "valueTypeListElement": "xs:string",
+                                      "modelType": "SubmodelElementList"
                                     },
                                     {
                                       "idShort": "const",
@@ -17466,6 +18026,41 @@
                           "modelType": "Property"
                         },
                         {
+                          "idShort": "enum",
+                          "displayName": [
+                            {
+                              "language": "en",
+                              "text": "Enum"
+                            }
+                          ],
+                          "description": [
+                            {
+                              "language": "en",
+                              "text": "Provides a list of restricted set of values that the asset can provide as datapoint value."
+                            }
+                          ],
+                          "semanticId": {
+                            "type": "ExternalReference",
+                            "keys": [
+                              {
+                                "type": "GlobalReference",
+                                "value": "https://www.w3.org/2019/wot/json-schema#enum"
+                              }
+                            ]
+                          },
+                          "qualifiers": [
+                            {
+                              "kind": "TemplateQualifier",
+                              "type": "SMT/Cardinality",
+                              "valueType": "xs:string",
+                              "value": "ZeroToOne"
+                            }
+                          ],
+                          "typeValueListElement": "Property",
+                          "valueTypeListElement": "xs:string",
+                          "modelType": "SubmodelElementList"
+                        },
+                        {
                           "idShort": "const",
                           "description": [
                             {
@@ -17784,6 +18379,41 @@
                               ],
                               "valueType": "xs:string",
                               "modelType": "Property"
+                            },
+                            {
+                              "idShort": "enum",
+                              "displayName": [
+                                {
+                                  "language": "en",
+                                  "text": "Enum"
+                                }
+                              ],
+                              "description": [
+                                {
+                                  "language": "en",
+                                  "text": "Provides a list of restricted set of values that the asset can provide as datapoint value."
+                                }
+                              ],
+                              "semanticId": {
+                                "type": "ExternalReference",
+                                "keys": [
+                                  {
+                                    "type": "GlobalReference",
+                                    "value": "https://www.w3.org/2019/wot/json-schema#enum"
+                                  }
+                                ]
+                              },
+                              "qualifiers": [
+                                {
+                                  "kind": "TemplateQualifier",
+                                  "type": "SMT/Cardinality",
+                                  "valueType": "xs:string",
+                                  "value": "ZeroToOne"
+                                }
+                              ],
+                              "typeValueListElement": "Property",
+                              "valueTypeListElement": "xs:string",
+                              "modelType": "SubmodelElementList"
                             },
                             {
                               "idShort": "const",
@@ -18222,6 +18852,41 @@
                                   "modelType": "Property"
                                 },
                                 {
+                                  "idShort": "enum",
+                                  "displayName": [
+                                    {
+                                      "language": "en",
+                                      "text": "Enum"
+                                    }
+                                  ],
+                                  "description": [
+                                    {
+                                      "language": "en",
+                                      "text": "Provides a list of restricted set of values that the asset can provide as datapoint value."
+                                    }
+                                  ],
+                                  "semanticId": {
+                                    "type": "ExternalReference",
+                                    "keys": [
+                                      {
+                                        "type": "GlobalReference",
+                                        "value": "https://www.w3.org/2019/wot/json-schema#enum"
+                                      }
+                                    ]
+                                  },
+                                  "qualifiers": [
+                                    {
+                                      "kind": "TemplateQualifier",
+                                      "type": "SMT/Cardinality",
+                                      "valueType": "xs:string",
+                                      "value": "ZeroToOne"
+                                    }
+                                  ],
+                                  "typeValueListElement": "Property",
+                                  "valueTypeListElement": "xs:string",
+                                  "modelType": "SubmodelElementList"
+                                },
+                                {
                                   "idShort": "const",
                                   "description": [
                                     {
@@ -18540,6 +19205,41 @@
                                       ],
                                       "valueType": "xs:string",
                                       "modelType": "Property"
+                                    },
+                                    {
+                                      "idShort": "enum",
+                                      "displayName": [
+                                        {
+                                          "language": "en",
+                                          "text": "Enum"
+                                        }
+                                      ],
+                                      "description": [
+                                        {
+                                          "language": "en",
+                                          "text": "Provides a list of restricted set of values that the asset can provide as datapoint value."
+                                        }
+                                      ],
+                                      "semanticId": {
+                                        "type": "ExternalReference",
+                                        "keys": [
+                                          {
+                                            "type": "GlobalReference",
+                                            "value": "https://www.w3.org/2019/wot/json-schema#enum"
+                                          }
+                                        ]
+                                      },
+                                      "qualifiers": [
+                                        {
+                                          "kind": "TemplateQualifier",
+                                          "type": "SMT/Cardinality",
+                                          "valueType": "xs:string",
+                                          "value": "ZeroToOne"
+                                        }
+                                      ],
+                                      "typeValueListElement": "Property",
+                                      "valueTypeListElement": "xs:string",
+                                      "modelType": "SubmodelElementList"
                                     },
                                     {
                                       "idShort": "const",
@@ -19105,6 +19805,41 @@
                                   "modelType": "Property"
                                 },
                                 {
+                                  "idShort": "enum",
+                                  "displayName": [
+                                    {
+                                      "language": "en",
+                                      "text": "Enum"
+                                    }
+                                  ],
+                                  "description": [
+                                    {
+                                      "language": "en",
+                                      "text": "Provides a list of restricted set of values that the asset can provide as datapoint value."
+                                    }
+                                  ],
+                                  "semanticId": {
+                                    "type": "ExternalReference",
+                                    "keys": [
+                                      {
+                                        "type": "GlobalReference",
+                                        "value": "https://www.w3.org/2019/wot/json-schema#enum"
+                                      }
+                                    ]
+                                  },
+                                  "qualifiers": [
+                                    {
+                                      "kind": "TemplateQualifier",
+                                      "type": "SMT/Cardinality",
+                                      "valueType": "xs:string",
+                                      "value": "ZeroToOne"
+                                    }
+                                  ],
+                                  "typeValueListElement": "Property",
+                                  "valueTypeListElement": "xs:string",
+                                  "modelType": "SubmodelElementList"
+                                },
+                                {
                                   "idShort": "const",
                                   "description": [
                                     {
@@ -19423,6 +20158,41 @@
                                       ],
                                       "valueType": "xs:string",
                                       "modelType": "Property"
+                                    },
+                                    {
+                                      "idShort": "enum",
+                                      "displayName": [
+                                        {
+                                          "language": "en",
+                                          "text": "Enum"
+                                        }
+                                      ],
+                                      "description": [
+                                        {
+                                          "language": "en",
+                                          "text": "Provides a list of restricted set of values that the asset can provide as datapoint value."
+                                        }
+                                      ],
+                                      "semanticId": {
+                                        "type": "ExternalReference",
+                                        "keys": [
+                                          {
+                                            "type": "GlobalReference",
+                                            "value": "https://www.w3.org/2019/wot/json-schema#enum"
+                                          }
+                                        ]
+                                      },
+                                      "qualifiers": [
+                                        {
+                                          "kind": "TemplateQualifier",
+                                          "type": "SMT/Cardinality",
+                                          "valueType": "xs:string",
+                                          "value": "ZeroToOne"
+                                        }
+                                      ],
+                                      "typeValueListElement": "Property",
+                                      "valueTypeListElement": "xs:string",
+                                      "modelType": "SubmodelElementList"
                                     },
                                     {
                                       "idShort": "const",
@@ -20526,7 +21296,7 @@
                                           "kind": "TemplateQualifier",
                                           "type": "SMT/Cardinality",
                                           "valueType": "xs:string",
-                                          "value": "ZerotoOne"
+                                          "value": "ZeroToOne"
                                         }
                                       ],
                                       "orderRelevant": true,
@@ -20562,7 +21332,7 @@
                                               "kind": "TemplateQualifier",
                                               "type": "SMT/Cardinality",
                                               "valueType": "xs:string",
-                                              "value": "ZerotoMany"
+                                              "value": "ZeroToMany"
                                             }
                                           ],
                                           "value": [
@@ -20810,7 +21580,7 @@
                                       "kind": "TemplateQualifier",
                                       "type": "SMT/Cardinality",
                                       "valueType": "xs:string",
-                                      "value": "ZerotoOne"
+                                      "value": "ZeroToOne"
                                     }
                                   ],
                                   "orderRelevant": true,
@@ -20846,7 +21616,7 @@
                                           "kind": "TemplateQualifier",
                                           "type": "SMT/Cardinality",
                                           "valueType": "xs:string",
-                                          "value": "ZerotoMany"
+                                          "value": "ZeroToMany"
                                         }
                                       ],
                                       "value": [
@@ -22930,6 +23700,41 @@
                           "modelType": "Property"
                         },
                         {
+                          "idShort": "enum",
+                          "displayName": [
+                            {
+                              "language": "en",
+                              "text": "Enum"
+                            }
+                          ],
+                          "description": [
+                            {
+                              "language": "en",
+                              "text": "Provides a list of restricted set of values that the asset can provide as datapoint value."
+                            }
+                          ],
+                          "semanticId": {
+                            "type": "ExternalReference",
+                            "keys": [
+                              {
+                                "type": "GlobalReference",
+                                "value": "https://www.w3.org/2019/wot/json-schema#enum"
+                              }
+                            ]
+                          },
+                          "qualifiers": [
+                            {
+                              "kind": "TemplateQualifier",
+                              "type": "SMT/Cardinality",
+                              "valueType": "xs:string",
+                              "value": "ZeroToOne"
+                            }
+                          ],
+                          "typeValueListElement": "Property",
+                          "valueTypeListElement": "xs:string",
+                          "modelType": "SubmodelElementList"
+                        },
+                        {
                           "idShort": "const",
                           "description": [
                             {
@@ -23248,6 +24053,41 @@
                               ],
                               "valueType": "xs:string",
                               "modelType": "Property"
+                            },
+                            {
+                              "idShort": "enum",
+                              "displayName": [
+                                {
+                                  "language": "en",
+                                  "text": "Enum"
+                                }
+                              ],
+                              "description": [
+                                {
+                                  "language": "en",
+                                  "text": "Provides a list of restricted set of values that the asset can provide as datapoint value."
+                                }
+                              ],
+                              "semanticId": {
+                                "type": "ExternalReference",
+                                "keys": [
+                                  {
+                                    "type": "GlobalReference",
+                                    "value": "https://www.w3.org/2019/wot/json-schema#enum"
+                                  }
+                                ]
+                              },
+                              "qualifiers": [
+                                {
+                                  "kind": "TemplateQualifier",
+                                  "type": "SMT/Cardinality",
+                                  "valueType": "xs:string",
+                                  "value": "ZeroToOne"
+                                }
+                              ],
+                              "typeValueListElement": "Property",
+                              "valueTypeListElement": "xs:string",
+                              "modelType": "SubmodelElementList"
                             },
                             {
                               "idShort": "const",
@@ -23686,6 +24526,41 @@
                                   "modelType": "Property"
                                 },
                                 {
+                                  "idShort": "enum",
+                                  "displayName": [
+                                    {
+                                      "language": "en",
+                                      "text": "Enum"
+                                    }
+                                  ],
+                                  "description": [
+                                    {
+                                      "language": "en",
+                                      "text": "Provides a list of restricted set of values that the asset can provide as datapoint value."
+                                    }
+                                  ],
+                                  "semanticId": {
+                                    "type": "ExternalReference",
+                                    "keys": [
+                                      {
+                                        "type": "GlobalReference",
+                                        "value": "https://www.w3.org/2019/wot/json-schema#enum"
+                                      }
+                                    ]
+                                  },
+                                  "qualifiers": [
+                                    {
+                                      "kind": "TemplateQualifier",
+                                      "type": "SMT/Cardinality",
+                                      "valueType": "xs:string",
+                                      "value": "ZeroToOne"
+                                    }
+                                  ],
+                                  "typeValueListElement": "Property",
+                                  "valueTypeListElement": "xs:string",
+                                  "modelType": "SubmodelElementList"
+                                },
+                                {
                                   "idShort": "const",
                                   "description": [
                                     {
@@ -24004,6 +24879,41 @@
                                       ],
                                       "valueType": "xs:string",
                                       "modelType": "Property"
+                                    },
+                                    {
+                                      "idShort": "enum",
+                                      "displayName": [
+                                        {
+                                          "language": "en",
+                                          "text": "Enum"
+                                        }
+                                      ],
+                                      "description": [
+                                        {
+                                          "language": "en",
+                                          "text": "Provides a list of restricted set of values that the asset can provide as datapoint value."
+                                        }
+                                      ],
+                                      "semanticId": {
+                                        "type": "ExternalReference",
+                                        "keys": [
+                                          {
+                                            "type": "GlobalReference",
+                                            "value": "https://www.w3.org/2019/wot/json-schema#enum"
+                                          }
+                                        ]
+                                      },
+                                      "qualifiers": [
+                                        {
+                                          "kind": "TemplateQualifier",
+                                          "type": "SMT/Cardinality",
+                                          "valueType": "xs:string",
+                                          "value": "ZeroToOne"
+                                        }
+                                      ],
+                                      "typeValueListElement": "Property",
+                                      "valueTypeListElement": "xs:string",
+                                      "modelType": "SubmodelElementList"
                                     },
                                     {
                                       "idShort": "const",
@@ -27289,6 +28199,41 @@
                           "modelType": "Property"
                         },
                         {
+                          "idShort": "enum",
+                          "displayName": [
+                            {
+                              "language": "en",
+                              "text": "Enum"
+                            }
+                          ],
+                          "description": [
+                            {
+                              "language": "en",
+                              "text": "Provides a list of restricted set of values that the asset can provide as datapoint value."
+                            }
+                          ],
+                          "semanticId": {
+                            "type": "ExternalReference",
+                            "keys": [
+                              {
+                                "type": "GlobalReference",
+                                "value": "https://www.w3.org/2019/wot/json-schema#enum"
+                              }
+                            ]
+                          },
+                          "qualifiers": [
+                            {
+                              "kind": "TemplateQualifier",
+                              "type": "SMT/Cardinality",
+                              "valueType": "xs:string",
+                              "value": "ZeroToOne"
+                            }
+                          ],
+                          "typeValueListElement": "Property",
+                          "valueTypeListElement": "xs:string",
+                          "modelType": "SubmodelElementList"
+                        },
+                        {
                           "idShort": "const",
                           "description": [
                             {
@@ -27607,6 +28552,41 @@
                               ],
                               "valueType": "xs:string",
                               "modelType": "Property"
+                            },
+                            {
+                              "idShort": "enum",
+                              "displayName": [
+                                {
+                                  "language": "en",
+                                  "text": "Enum"
+                                }
+                              ],
+                              "description": [
+                                {
+                                  "language": "en",
+                                  "text": "Provides a list of restricted set of values that the asset can provide as datapoint value."
+                                }
+                              ],
+                              "semanticId": {
+                                "type": "ExternalReference",
+                                "keys": [
+                                  {
+                                    "type": "GlobalReference",
+                                    "value": "https://www.w3.org/2019/wot/json-schema#enum"
+                                  }
+                                ]
+                              },
+                              "qualifiers": [
+                                {
+                                  "kind": "TemplateQualifier",
+                                  "type": "SMT/Cardinality",
+                                  "valueType": "xs:string",
+                                  "value": "ZeroToOne"
+                                }
+                              ],
+                              "typeValueListElement": "Property",
+                              "valueTypeListElement": "xs:string",
+                              "modelType": "SubmodelElementList"
                             },
                             {
                               "idShort": "const",
@@ -28045,6 +29025,41 @@
                                   "modelType": "Property"
                                 },
                                 {
+                                  "idShort": "enum",
+                                  "displayName": [
+                                    {
+                                      "language": "en",
+                                      "text": "Enum"
+                                    }
+                                  ],
+                                  "description": [
+                                    {
+                                      "language": "en",
+                                      "text": "Provides a list of restricted set of values that the asset can provide as datapoint value."
+                                    }
+                                  ],
+                                  "semanticId": {
+                                    "type": "ExternalReference",
+                                    "keys": [
+                                      {
+                                        "type": "GlobalReference",
+                                        "value": "https://www.w3.org/2019/wot/json-schema#enum"
+                                      }
+                                    ]
+                                  },
+                                  "qualifiers": [
+                                    {
+                                      "kind": "TemplateQualifier",
+                                      "type": "SMT/Cardinality",
+                                      "valueType": "xs:string",
+                                      "value": "ZeroToOne"
+                                    }
+                                  ],
+                                  "typeValueListElement": "Property",
+                                  "valueTypeListElement": "xs:string",
+                                  "modelType": "SubmodelElementList"
+                                },
+                                {
                                   "idShort": "const",
                                   "description": [
                                     {
@@ -28363,6 +29378,41 @@
                                       ],
                                       "valueType": "xs:string",
                                       "modelType": "Property"
+                                    },
+                                    {
+                                      "idShort": "enum",
+                                      "displayName": [
+                                        {
+                                          "language": "en",
+                                          "text": "Enum"
+                                        }
+                                      ],
+                                      "description": [
+                                        {
+                                          "language": "en",
+                                          "text": "Provides a list of restricted set of values that the asset can provide as datapoint value."
+                                        }
+                                      ],
+                                      "semanticId": {
+                                        "type": "ExternalReference",
+                                        "keys": [
+                                          {
+                                            "type": "GlobalReference",
+                                            "value": "https://www.w3.org/2019/wot/json-schema#enum"
+                                          }
+                                        ]
+                                      },
+                                      "qualifiers": [
+                                        {
+                                          "kind": "TemplateQualifier",
+                                          "type": "SMT/Cardinality",
+                                          "valueType": "xs:string",
+                                          "value": "ZeroToOne"
+                                        }
+                                      ],
+                                      "typeValueListElement": "Property",
+                                      "valueTypeListElement": "xs:string",
+                                      "modelType": "SubmodelElementList"
                                     },
                                     {
                                       "idShort": "const",
@@ -30954,6 +32004,41 @@
                           "modelType": "Property"
                         },
                         {
+                          "idShort": "enum",
+                          "displayName": [
+                            {
+                              "language": "en",
+                              "text": "Enum"
+                            }
+                          ],
+                          "description": [
+                            {
+                              "language": "en",
+                              "text": "Provides a list of restricted set of values that the asset can provide as datapoint value."
+                            }
+                          ],
+                          "semanticId": {
+                            "type": "ExternalReference",
+                            "keys": [
+                              {
+                                "type": "GlobalReference",
+                                "value": "https://www.w3.org/2019/wot/json-schema#enum"
+                              }
+                            ]
+                          },
+                          "qualifiers": [
+                            {
+                              "kind": "TemplateQualifier",
+                              "type": "SMT/Cardinality",
+                              "valueType": "xs:string",
+                              "value": "ZeroToOne"
+                            }
+                          ],
+                          "typeValueListElement": "Property",
+                          "valueTypeListElement": "xs:string",
+                          "modelType": "SubmodelElementList"
+                        },
+                        {
                           "idShort": "const",
                           "description": [
                             {
@@ -31272,6 +32357,41 @@
                               ],
                               "valueType": "xs:string",
                               "modelType": "Property"
+                            },
+                            {
+                              "idShort": "enum",
+                              "displayName": [
+                                {
+                                  "language": "en",
+                                  "text": "Enum"
+                                }
+                              ],
+                              "description": [
+                                {
+                                  "language": "en",
+                                  "text": "Provides a list of restricted set of values that the asset can provide as datapoint value."
+                                }
+                              ],
+                              "semanticId": {
+                                "type": "ExternalReference",
+                                "keys": [
+                                  {
+                                    "type": "GlobalReference",
+                                    "value": "https://www.w3.org/2019/wot/json-schema#enum"
+                                  }
+                                ]
+                              },
+                              "qualifiers": [
+                                {
+                                  "kind": "TemplateQualifier",
+                                  "type": "SMT/Cardinality",
+                                  "valueType": "xs:string",
+                                  "value": "ZeroToOne"
+                                }
+                              ],
+                              "typeValueListElement": "Property",
+                              "valueTypeListElement": "xs:string",
+                              "modelType": "SubmodelElementList"
                             },
                             {
                               "idShort": "const",
@@ -31710,6 +32830,41 @@
                                   "modelType": "Property"
                                 },
                                 {
+                                  "idShort": "enum",
+                                  "displayName": [
+                                    {
+                                      "language": "en",
+                                      "text": "Enum"
+                                    }
+                                  ],
+                                  "description": [
+                                    {
+                                      "language": "en",
+                                      "text": "Provides a list of restricted set of values that the asset can provide as datapoint value."
+                                    }
+                                  ],
+                                  "semanticId": {
+                                    "type": "ExternalReference",
+                                    "keys": [
+                                      {
+                                        "type": "GlobalReference",
+                                        "value": "https://www.w3.org/2019/wot/json-schema#enum"
+                                      }
+                                    ]
+                                  },
+                                  "qualifiers": [
+                                    {
+                                      "kind": "TemplateQualifier",
+                                      "type": "SMT/Cardinality",
+                                      "valueType": "xs:string",
+                                      "value": "ZeroToOne"
+                                    }
+                                  ],
+                                  "typeValueListElement": "Property",
+                                  "valueTypeListElement": "xs:string",
+                                  "modelType": "SubmodelElementList"
+                                },
+                                {
                                   "idShort": "const",
                                   "description": [
                                     {
@@ -32028,6 +33183,41 @@
                                       ],
                                       "valueType": "xs:string",
                                       "modelType": "Property"
+                                    },
+                                    {
+                                      "idShort": "enum",
+                                      "displayName": [
+                                        {
+                                          "language": "en",
+                                          "text": "Enum"
+                                        }
+                                      ],
+                                      "description": [
+                                        {
+                                          "language": "en",
+                                          "text": "Provides a list of restricted set of values that the asset can provide as datapoint value."
+                                        }
+                                      ],
+                                      "semanticId": {
+                                        "type": "ExternalReference",
+                                        "keys": [
+                                          {
+                                            "type": "GlobalReference",
+                                            "value": "https://www.w3.org/2019/wot/json-schema#enum"
+                                          }
+                                        ]
+                                      },
+                                      "qualifiers": [
+                                        {
+                                          "kind": "TemplateQualifier",
+                                          "type": "SMT/Cardinality",
+                                          "valueType": "xs:string",
+                                          "value": "ZeroToOne"
+                                        }
+                                      ],
+                                      "typeValueListElement": "Property",
+                                      "valueTypeListElement": "xs:string",
+                                      "modelType": "SubmodelElementList"
                                     },
                                     {
                                       "idShort": "const",
@@ -37886,6 +39076,51 @@
               {
                 "language": "en",
                 "text": "Defines the payload mapping associated to a datapoint."
+              }
+            ],
+            "modelType": "DataSpecificationIec61360"
+          }
+        }
+      ],
+      "modelType": "ConceptDescription"
+    },
+    {
+      "idShort": "enum",
+      "displayName": [
+        {
+          "language": "en",
+          "text": "Enum"
+        }
+      ],
+      "description": [
+        {
+          "language": "en",
+          "text": "Provides a list of restricted set of values that the asset can provide as datapoint value."
+        }
+      ],
+      "id": "https://www.w3.org/2019/wot/json-schema#enum",
+      "embeddedDataSpecifications": [
+        {
+          "dataSpecification": {
+            "type": "ExternalReference",
+            "keys": [
+              {
+                "type": "GlobalReference",
+                "value": "https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIec61360/3/0"
+              }
+            ]
+          },
+          "dataSpecificationContent": {
+            "preferredName": [
+              {
+                "language": "en",
+                "text": "enum"
+              }
+            ],
+            "definition": [
+              {
+                "language": "en",
+                "text": "Provides a list of restricted set of values that the asset can provide as datapoint value."
               }
             ],
             "modelType": "DataSpecificationIec61360"
